@@ -24,6 +24,7 @@ public class contador : MonoBehaviour
         //tiempo =Vtiempo + Time.deltaTime;
         //1s
         //2s
+        //
         //3s
         textoContador.text = ((int) tiempo).ToString();
         //1 + 2 + 3 >
